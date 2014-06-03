@@ -1,5 +1,5 @@
 Rackspace Cloud Core Infrastructure Services User Guide
-=======================================================
+========================================================
 
 Contents:
 
